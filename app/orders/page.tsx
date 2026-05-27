@@ -305,13 +305,13 @@ export default function OrdersPage() {
       {/* العنوان */}
       <div className="mb-6">
         <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
-          Orders 6
+          Orders 99
         </h1>
         <p className="text-gray-600 dark:text-gray-400 mt-1">
           Manage your orders and track their status
         </p>
       </div>
-          
+
       {/* شريط الفلتر والزر */}
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-6">
         <div className="flex flex-col sm:flex-row items-start sm:items-center gap-3 w-full sm:w-auto">
